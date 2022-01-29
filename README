@@ -1,0 +1,11 @@
+PUPOS jest aplikacją stworzoną przy użyciu ReactJS
+
+Aby uruchomić aplikację należy wykonać polecenie
+`npm i && npm start`
+
+Domyślnie aplikacja uruchamia się na porcie 3000 z wyjątkiem przypadku z którym port ten jest już zajęty przez inny proces w systemie operacyjnym. Wtedy aplikacja pyta, czy użytkownik chce ją uruchomić na innym wolnym porcie.
+
+Domyślny punkt dostępu do aplikacji: http://localhost:3000.
+
+
+
